@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pops & Bags - Car Parts Online Store
 
 A modern React.js car parts e-commerce website with premium glassmorphism design, featuring a comprehensive catalog of JDM and performance parts. **Now live at [popsnbags.vercel.app](https://popsnbags.vercel.app)**
@@ -213,3 +214,6 @@ For questions or support:
 ---
 
 **Built with ❤️ for the JDM and car enthusiast community**
+=======
+# gamevault
+>>>>>>> 201a4a0d63798e66617255aef68e7bf76943f20b
